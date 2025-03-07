@@ -1,6 +1,6 @@
 # DSE4101_Individual-Project: Forecasting Algorand (ALGO) Volatility - Comparison of GARCH, HAR and SVM-GARCH Hybrid Models  
 
-Luo Xinming (A0240232Y) 
+Luo Xinming
 
 ## Motivation 
 
